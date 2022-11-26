@@ -1,0 +1,6 @@
+What Is The Dom?
+
+Document Object Model
+	- list of all the HTML elements, structured in a tree
+		- starting with the "document" object, descending
+		into different HTML objects.
